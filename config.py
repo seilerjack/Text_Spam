@@ -1,0 +1,2 @@
+PHONE_NUMBER = 9134859225
+MESSAGE_TO_SEND = 'unwritten.txt'
