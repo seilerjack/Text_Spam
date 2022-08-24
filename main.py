@@ -21,4 +21,4 @@ TARGET_PHONE  -> phone number being targeted by the applescript send.scpt
 if __name__ == '__main__':
     words = get_words( config.MESSAGE_TO_SEND )
     for word in words:
-        send_message( config.TARGET_PHONE, word )
+        send_message( config.PHONE_NUMBER, word )
